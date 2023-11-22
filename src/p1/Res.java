@@ -1,2 +1,7 @@
-package p1;public class Res {
+package p1;
+
+public class Res {
+
+    int x = 0;
+
 }
